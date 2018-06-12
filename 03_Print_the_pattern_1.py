@@ -8,7 +8,7 @@ def pattern1(n):
         print (line)
     return "DONE"
 
-#print(pattern1(5))
+print(pattern1(5))
 
 def pattern2(n):
     num = 0

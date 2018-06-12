@@ -1,0 +1,12 @@
+svar a;
+svar b;
+svar c;
+svar string;
+string = "Hello, World!";
+print string;
+print a;
+a = 5;
+print a;
+b = 3.14;
+c = a + b;
+print c * 2;
